@@ -15,7 +15,7 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "VPNI2P - PRIVACIDADE E ANONIMATO"
-keywords:    "vpn, i2p,, git, gpg, secure, bitcoin, cryptocoin, criptomoeda, privacidade"
+keywords:    "vpn, gpg, segura, criptomoeda, privacidade, anonimato"
 description: "VPN COM FOCO EM PRIVACIDADE E ANONIMATO"
 source_link: "https://github.com/vpni2p/vpni2p.github.io"
 favicon:     "img/favicon.ico"
