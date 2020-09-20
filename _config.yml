@@ -15,10 +15,10 @@ markdown: kramdown
 
 ### content configuration ###
 title:       "VPNI2P - PRIVACIDADE E ANONIMATO"
-keywords:    "vpn, gpg, segura, criptomoeda, privacidade, anonimato"
+keywords:    "vpn, wireguard, openvpn, bitcoin, i2p. tor, yggdrasil, gpg, segura, criptomoeda, privacidade, anonimato"
 description: "VPN COM FOCO EM PRIVACIDADE E ANONIMATO"
 source_link: "https://github.com/vpni2p/vpni2p.github.io"
-favicon:     "img/favicon.ico"
+favicon:     "img/favicon.png"
 touch_icon:  "img/touch-icon.png"
 
 
